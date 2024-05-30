@@ -13,7 +13,7 @@ public class Pessoa {
 		public void setNome(String nome) {
 			this.nome = nome;
 		}
-
+/* asdasdsasassda*/
 		public String getSobrenome() {
 			return sobrenome;
 		}
@@ -21,7 +21,6 @@ public class Pessoa {
 		public void setSobrenome(String sobrenome) {
 			this.sobrenome = sobrenome;
 		}
-
-	/*felipe vai me mamart*/
-
+		
+		
 }
